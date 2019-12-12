@@ -1,0 +1,748 @@
+@media (max-width: 1310px) {
+  .entry__phone-line {
+    text-align: left;
+    padding-left: 185px;
+    padding-right: 0; }
+  .entry__clouds {
+    right: auto;
+    left: -623px; }
+  .entry__man {
+    text-align: left;
+    padding-left: 199px;
+    padding-right: 0; }
+  .entry__icons {
+    padding-right: 0; }
+    .entry__icons__wrap {
+      -webkit-box-pack: start;
+      -webkit-justify-content: flex-start;
+          -ms-flex-pack: start;
+              justify-content: flex-start; }
+  .entry__icon__wrap:nth-child(2) {
+    margin-right: 60px; }
+  .entry__icon__wrap:nth-child(3) {
+    margin-left: 60px; } }
+
+@media (max-width: 1200px) {
+  .mcntelecom__container {
+    max-width: 1030px; }
+  .entry__blue-clouds {
+    padding-top: -webkit-calc(150px);
+    padding-top: calc(150px); }
+  .entry__blue-globe {
+    top: 18.2%;
+    padding: 0;
+    text-align: center; }
+    .entry__blue-globe__img {
+      width: 1000px; }
+  .entry__phone-line {
+    text-align: center;
+    padding-left: 0;
+    padding-right: 400px;
+    top: 265px; }
+    .entry__phone-line__img {
+      -webkit-transform: scale(0.851);
+          -ms-transform: scale(0.851);
+              transform: scale(0.851); }
+  .entry__earth {
+    top: 18.2%;
+    padding: 0;
+    text-align: center; }
+    .entry__earth__img {
+      width: 1000px; }
+  .entry__clouds {
+    bottom: 19px;
+    left: -webkit-calc(-1201px + 50.3%);
+    left: calc(-1201px + 50.3%); }
+    .entry__clouds__img {
+      -webkit-transform: scale(0.851);
+          -ms-transform: scale(0.851);
+              transform: scale(0.851); }
+  .entry__man {
+    text-align: center;
+    padding-left: 0;
+    padding-right: 268px;
+    top: 243px; }
+    .entry__man__img {
+      -webkit-transform: scale(0.851);
+          -ms-transform: scale(0.851);
+              transform: scale(0.851); }
+  .entry__icons {
+    top: 654px; }
+    .entry__icons__wrap {
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+  .entry__icon {
+    width: 75px;
+    height: 75px; }
+    .entry__icon__wrap {
+      width: 210px;
+      height: 210px; }
+      .entry__icon__wrap:first-child {
+        margin-left: 0; }
+    .entry__icon__shadow {
+      width: 39px;
+      height: 45px; }
+    .entry__icon__title {
+      font-size: 18px; }
+  .functions__subblock {
+    padding: 50px 0; }
+  .functions__content {
+    padding-left: 70px; }
+  .functions__img {
+    width: 96%;
+    top: -55px; }
+    .functions__img-part {
+      padding-right: 70px; }
+  .functions__text-part {
+    padding: 0 85px 0 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .numbers__count {
+    font-size: 85px; }
+    .numbers__count-nulls {
+      font-size: 55px; }
+  .partners__logo {
+    text-align: center; }
+    .partners__logo-img {
+      width: 80%; }
+  .reviews__carousel {
+    padding: 0; }
+    .reviews__carousel-avatar {
+      margin-left: 175px; }
+  .reviews__vats {
+    padding-right: 0;
+    padding-left: 4.5%; }
+    .reviews__vats__text-part {
+      margin-left: 365px;
+      padding: 35px 70px 30px 100px; } }
+
+@media (max-width: 1024px) {
+  .mcntelecom__container {
+    padding: 0 23px; }
+  .mcntelecom-header .first-level__left-part {
+    display: none; }
+  .mcntelecom-header .first-level__phone {
+    padding-left: 0;
+    font-size: 16px; }
+  .mcntelecom-header .first-level__label {
+    display: none; }
+  .mcntelecom-header .first-level__country-menu_link {
+    display: none; }
+  .mcntelecom-header .first-level__login {
+    margin-right: 0; }
+    .mcntelecom-header .first-level__login i {
+      margin-right: 11px; }
+  .mcntelecom-header .first-level__signup {
+    padding: 7px 13px 9px; }
+  .mcntelecom-header__second-level {
+    position: relative; }
+  .mcntelecom-header .second-level__logo-wrap {
+    max-width: 180px;
+    padding: 18px 0; }
+  .mcntelecom-header .second-level__menu_list-wrap {
+    -webkit-box-ordinal-group: 3;
+    -webkit-order: 2;
+        -ms-flex-order: 2;
+            order: 2; }
+    .mcntelecom-header .second-level__menu_list-wrap .hamburger_link {
+      display: block;
+      padding: 0;
+      width: 22px;
+      height: 20px;
+      font-size: 24px;
+      margin-top: -3px;
+      color: #006ca2; }
+  .mcntelecom-header .second-level__shop_link-wrap {
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+        -ms-flex-order: 1;
+            order: 1; }
+    .mcntelecom-header .second-level__shop_link-wrap .shop_link {
+      padding: 0;
+      width: 22px;
+      height: 20px;
+      border-radius: 0;
+      border: none;
+      margin-left: 0;
+      margin-right: 28px;
+      background-position: center center;
+      background-size: cover; }
+      .mcntelecom-header .second-level__shop_link-wrap .shop_link > span {
+        display: none; }
+  .mcntelecom-header .second-level__menu_item.has-children:hover > .second-level__menu_link {
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    color: #006ca2; }
+  .mcntelecom-header .second-level__menu_item:not(.has-children):hover > .second-level__menu_link {
+    color: #013040; }
+  .mcntelecom-header .second-level__menu_item.has-children:after {
+    position: absolute;
+    width: 100%;
+    height: 0px; }
+  .mcntelecom-header .second-level__menu_item.has-children:hover:after {
+    height: 0px; }
+  .mcntelecom-header .second-level__menu_item > .second-level__menu_link {
+    display: block;
+    color: #006ca2;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px 0;
+    font-size: 16px; }
+    .mcntelecom-header .second-level__menu_item > .second-level__menu_link-first-level {
+      text-transform: none;
+      padding: 12px 0; }
+  .mcntelecom-header .second-level__menu_item > .second-level__submenu_link-first-level {
+    text-transform: none;
+    padding: 5px 0;
+    color: #013040; }
+  .mcntelecom-header .second-level__menu_item.has-children > .second-level__menu_link:after {
+    content: '\f107';
+    font-family: 'FontAwesome';
+    margin-left: 10px;
+    display: inline-block;
+    -webkit-transition: all 0.3s ease-in-out 0.3s;
+    -o-transition: all 0.3s ease-in-out 0.3s;
+    transition: all 0.3s ease-in-out 0.3s; }
+  .mcntelecom-header .second-level__menu_item.has-children > .second-level__menu_link.isopen:after {
+    -webkit-transform: rotateX(180deg);
+            transform: rotateX(180deg); }
+  .mcntelecom-header .second-level__menu_item.mobile {
+    display: block; }
+  .mcntelecom-header .second-level__submenu_list-wrap {
+    visibility: visible;
+    opacity: 1;
+    position: static;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    border-radius: 0;
+    left: 0;
+    display: block;
+    height: 0;
+    overflow: hidden; }
+    .mcntelecom-header .second-level__submenu_list-wrap-first-level {
+      height: auto; }
+  .mcntelecom-header .second-level__submenu_list {
+    padding: 0 0 10px 0; }
+    .mcntelecom-header .second-level__submenu_list-first-level {
+      padding-bottom: 0; }
+  .mcntelecom-header .second-level__submenu_item {
+    padding: 5px 0; }
+    .mcntelecom-header .second-level__submenu_item:hover .second-level__shadow-div {
+      -webkit-box-shadow: -5px 2px 10px 10px rgba(0, 169, 255, 0.3), 5px 2px 10px 10px rgba(179, 113, 255, 0.4);
+              box-shadow: -5px 2px 10px 10px rgba(0, 169, 255, 0.3), 5px 2px 10px 10px rgba(179, 113, 255, 0.4); }
+    .mcntelecom-header .second-level__submenu_item:active .second-level__shadow-div {
+      -webkit-box-shadow: -5px 2px 10px 10px rgba(0, 169, 255, 0.3), 5px 2px 10px 10px rgba(179, 113, 255, 0.4);
+              box-shadow: -5px 2px 10px 10px rgba(0, 169, 255, 0.3), 5px 2px 10px 10px rgba(179, 113, 255, 0.4); }
+    .mcntelecom-header .second-level__submenu_item-first-level {
+      padding: 0;
+      display: block;
+      position: relative; }
+  .mcntelecom-header .second-level__icon-wrap {
+    min-width: auto;
+    max-width: 30px;
+    margin-right: 15px; }
+  .mcntelecom-header .second-level__shadow-div {
+    margin: 6px;
+    left: 3px;
+    right: 3px;
+    top: 3px;
+    bottom: 12px;
+    width: 12px;
+    height: 15px; }
+  .mcntelecom-header .second-level__text-wrap {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .mcntelecom-header .second-level__submenu_link {
+    min-width: auto;
+    font-size: 14px;
+    font-family: 'Ubuntu Light', sans-serif;
+    margin-top: -3px; }
+  .mcntelecom-header .second-level__submenu_text {
+    display: none; }
+  .mcntelecom-header .second-level__sublist {
+    margin: 0 -23px;
+    padding: 25px 23px; }
+  .mcntelecom-header .second-level__sublist-header {
+    font-size: 14px; }
+  .mcntelecom-header .second-level__submenu_list-wrap.submenu_list-wrap_small .second-level__submenu_list {
+    padding: 0 0 10px 0; }
+  .mcntelecom-header .second-level__submenu_list-wrap.submenu_list-wrap_small .second-level__icon-wrap {
+    min-width: auto;
+    max-width: 30px;
+    margin-right: 15px; }
+  .mcntelecom-header .second-level__country-wrap {
+    padding: 15px 0 0 0; }
+  .mcntelecom-header .second-level__label {
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Ubuntu Light', sans-serif;
+    color: #006CA2;
+    float: left; }
+  .mcntelecom-header .second-level__country-menu_link {
+    cursor: pointer;
+    padding: 12px;
+    color: #006ca2; }
+    .mcntelecom-header .second-level__country-menu_link:after {
+      content: '\f107';
+      font-family: 'FontAwesome';
+      margin-left: 20px;
+      margin-bottom: -4px;
+      display: inline-block;
+      visibility: visible;
+      height: auto;
+      -webkit-transition: all 0.3s ease-in-out 0s;
+      -o-transition: all 0.3s ease-in-out 0s;
+      transition: all 0.3s ease-in-out 0s; }
+    .mcntelecom-header .second-level__country-menu_link.isopen:after {
+      -webkit-transform: rotateX(180deg);
+              transform: rotateX(180deg); }
+  .mcntelecom-header .second-level__country-menu_list {
+    margin-left: 65px;
+    margin-top: 10px; }
+  .mcntelecom-header .second-level__country-menu_item {
+    padding: 0;
+    display: block;
+    position: relative; }
+  .mcntelecom-header .second-level__country-submenu_link {
+    text-transform: none;
+    padding: 5px 0;
+    color: #013040;
+    line-height: 28px;
+    font-size: 16px; }
+  .mcntelecom-header .options__menu_list {
+    position: absolute;
+    z-index: 100;
+    top: 100%;
+    bottom: auto;
+    right: 0;
+    left: 0;
+    display: block;
+    background: #fff;
+    padding: 0 23px 0;
+    height: 0;
+    overflow: hidden; }
+  .mcntelecom-entry {
+    min-height: 730px;
+    overflow: hidden;
+    background: -webkit-gradient(linear, left bottom, left top, from(#ffffff), color-stop(43%, #ffffff), color-stop(43%, #D2F8FD), to(#ffffff));
+    background: -o-linear-gradient(bottom, #ffffff 0%, #ffffff 43%, #D2F8FD 43%, #ffffff 100%);
+    background: linear-gradient(to top, #ffffff 0%, #ffffff 43%, #D2F8FD 43%, #ffffff 100%); }
+  .entry__blue-clouds {
+    padding-top: 120px; }
+  .entry__first-blue-cloud {
+    max-width: 70px;
+    top: 35px;
+    left: 10px;
+    -webkit-animation: none;
+            animation: none; }
+  .entry__second-blue-cloud {
+    width: 167px;
+    left: 315px;
+    top: 20px;
+    -webkit-animation: none;
+            animation: none; }
+  .entry__third-blue-cloud {
+    width: 167px;
+    top: 14px;
+    left: 714px;
+    -webkit-animation: none;
+            animation: none; }
+  .entry__blue-globe {
+    top: 146px;
+    left: -13%;
+    right: -17%; }
+    .entry__blue-globe__img {
+      width: 490px;
+      -webkit-animation: none;
+              animation: none;
+      -webkit-transform: none;
+          -ms-transform: none;
+              transform: none; }
+  .entry__phone-line {
+    top: 82px;
+    padding-right: -webkit-calc(195px - 4%);
+    padding-right: calc(195px - 4%);
+    left: -20%;
+    right: -20%; }
+    .entry__phone-line__img {
+      display: none; }
+      .entry__phone-line__img__mobile {
+        display: inline;
+        -webkit-transform: scale(0.417);
+            -ms-transform: scale(0.417);
+                transform: scale(0.417); }
+  .entry__earth {
+    top: 146px;
+    left: -13%;
+    right: -17%; }
+    .entry__earth__img {
+      width: 490px; }
+  .entry__clouds {
+    bottom: 150px;
+    right: -44%;
+    left: -36%;
+    text-align: center; }
+    .entry__clouds__img {
+      width: 692px;
+      -webkit-transform: scale(1);
+          -ms-transform: scale(1);
+              transform: scale(1); }
+  .entry__man {
+    top: -28px;
+    padding-right: -webkit-calc(128px - 4%);
+    padding-right: calc(128px - 4%);
+    left: -30%;
+    right: -30%; }
+    .entry__man__img {
+      -webkit-transform: scale(0.417);
+          -ms-transform: scale(0.417);
+              transform: scale(0.417); }
+  .entry__one-step {
+    top: 460px; }
+    .entry__one-step__wrap {
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      max-width: 500px;
+      margin: 0 auto; }
+    .entry__one-step__title {
+      text-align: center;
+      font-size: 24px;
+      margin-bottom: 20px;
+      -webkit-box-ordinal-group: 3;
+      -webkit-order: 2;
+          -ms-flex-order: 2;
+              order: 2; }
+    .entry__one-step__text {
+      text-align: center;
+      font-size: 14px;
+      margin-bottom: 5px;
+      -webkit-box-ordinal-group: 4;
+      -webkit-order: 3;
+          -ms-flex-order: 3;
+              order: 3; }
+    .entry__one-step__button {
+      -webkit-box-ordinal-group: 2;
+      -webkit-order: 1;
+          -ms-flex-order: 1;
+              order: 1;
+      font-size: 14px;
+      padding: 11px 30px;
+      margin-bottom: 30px; }
+    .entry__one-step__link {
+      font-family: 'Ubuntu Light', sans-serif;
+      font-size: 14px;
+      -webkit-box-ordinal-group: 5;
+      -webkit-order: 4;
+          -ms-flex-order: 4;
+              order: 4; }
+  .entry__icons {
+    top: 345px; }
+    .entry__icons__wrap {
+      position: relative;
+      left: 0;
+      right: 0; }
+  .entry__icon {
+    width: 50px;
+    height: 50px; }
+    .entry__icon__wrap {
+      width: 100px;
+      height: 100px;
+      position: absolute; }
+      .entry__icon__wrap:first-child {
+        left: -webkit-calc(50% - 175px);
+        left: calc(50% - 175px);
+        top: -85px;
+        z-index: 1; }
+      .entry__icon__wrap:nth-child(2) {
+        margin: 0;
+        left: -webkit-calc(50% - 115px);
+        left: calc(50% - 115px);
+        z-index: 0; }
+      .entry__icon__wrap:nth-child(3) {
+        margin: 0;
+        left: -webkit-calc(50% + 38px);
+        left: calc(50% + 38px);
+        z-index: 0; }
+      .entry__icon__wrap:last-child {
+        margin: 0;
+        left: -webkit-calc(50% + 75px);
+        left: calc(50% + 75px);
+        top: -85px;
+        z-index: 1; }
+    .entry__icon__shadow {
+      width: 14px;
+      height: 20px; }
+    .entry__icon__title {
+      font-size: 13px;
+      bottom: 0; }
+  .mcntelecom-functions {
+    margin-top: 0;
+    padding-top: 50px; }
+    .mcntelecom-functions .mcntelecom__container {
+      padding: 0; }
+  .functions__subblock {
+    padding: 45px 0; }
+    .functions__subblock:first-child .functions__img {
+      max-width: 192px; }
+    .functions__subblock:nth-child(2) .functions__text-part {
+      -webkit-box-ordinal-group: 3;
+      -webkit-order: 2;
+          -ms-flex-order: 2;
+              order: 2; }
+    .functions__subblock:nth-child(2) .functions__img {
+      max-width: 242px; }
+      .functions__subblock:nth-child(2) .functions__img-part {
+        -webkit-box-ordinal-group: 2;
+        -webkit-order: 1;
+            -ms-flex-order: 1;
+                order: 1; }
+    .functions__subblock:last-child .functions__img {
+      max-width: 250px; }
+  .functions__content {
+    padding: 0 0 15px 0;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    border-radius: 0; }
+  .functions__img {
+    width: auto;
+    top: -60px; }
+    .functions__img-part {
+      padding: 0;
+      width: 100%;
+      text-align: center; }
+  .functions__text-part {
+    position: relative;
+    top: -20px;
+    padding: 0;
+    width: 100%; }
+    .functions__text-part__wrap {
+      margin: 0 auto;
+      text-align: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+    .functions__text-part__title {
+      font-size: 20px; }
+    .functions__text-part__text {
+      font-size: 14px;
+      padding: 0 10px;
+      margin-bottom: 25px; }
+  .mcntelecom-numbers {
+    margin-top: 0;
+    background-size: 105% auto; }
+  .numbers__content {
+    padding: 80px 0 160px; }
+  .numbers__item {
+    padding: 10px 0; }
+    .numbers__item-wrap {
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      -webkit-justify-content: space-around;
+          -ms-flex-pack: distribute;
+              justify-content: space-around; }
+  .numbers__top-text, .numbers__bottom-text {
+    font-size: 12px; }
+  .numbers__count {
+    font-size: 64px;
+    line-height: 64px; }
+    .numbers__count-nulls {
+      font-size: 40px;
+      margin-top: -10px; }
+  .mcntelecom-partners {
+    top: -160px;
+    background-size: 1038px auto; }
+  .partners__content {
+    padding: 140px 0; }
+  .partners__title {
+    font-size: 22px;
+    margin-bottom: 30px; }
+  .partners__logos-wrap {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    max-width: 640px;
+    margin: 0 auto; }
+  .partners__logo {
+    padding: 0;
+    width: 50%;
+    margin-bottom: 30px; }
+    .partners__logo-img {
+      max-width: 155px;
+      max-height: 65px;
+      width: 90%; }
+  .mcntelecom-reviews {
+    margin-top: -320px;
+    background-size: 100% auto, 1024px auto; }
+  .reviews__content {
+    padding-top: 100px; }
+  .reviews__title {
+    margin-bottom: 10px;
+    font-size: 22px; }
+  .reviews__carousel-item__wrap {
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap; }
+  .reviews__carousel-avatar {
+    margin: 20px auto 25px; }
+    .reviews__carousel-avatar__img {
+      max-width: 120px; }
+  .reviews__carousel-text_part {
+    margin: 0;
+    padding-left: 0;
+    text-align: center;
+    width: 100%; }
+  .reviews__carousel-title {
+    font-size: 18px; }
+  .reviews__carousel-subtitle {
+    font-size: 10px;
+    letter-spacing: 3px;
+    margin-bottom: 25px; }
+  .reviews__carousel-text {
+    max-width: 250px;
+    margin: 0 auto;
+    font-size: 12px; }
+  .reviews__carousel-controls {
+    margin-top: 30px;
+    padding: 0;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+  .reviews__vats {
+    padding: 110px 0 55px; }
+    .reviews__vats-wrap {
+      height: auto; }
+    .reviews__vats__img-part {
+      bottom: -55px;
+      left: -webkit-calc(50% - 95px);
+      left: calc(50% - 95px); }
+      .reviews__vats__img-part__img {
+        display: none; }
+        .reviews__vats__img-part__img-mobile {
+          display: inline; }
+    .reviews__vats__text-part {
+      max-width: 255px;
+      margin: 0 auto;
+      padding: 25px 0 200px;
+      text-align: center; }
+      .reviews__vats__text-part__title {
+        font-size: 22px;
+        line-height: 28px; }
+      .reviews__vats__text-part__text {
+        font-size: 12px;
+        line-height: 16px;
+        margin-bottom: 25px; }
+      .reviews__vats__text-part__button {
+        margin: 0 auto;
+        padding: 6px 25px; }
+      .reviews__vats__text-part__link {
+        margin: 12px auto 0; }
+  .mcntelecom-footer {
+    padding-top: 0; }
+    .mcntelecom-footer__title-level {
+      padding: 15px 0; }
+    .mcntelecom-footer .title-level__logo-wrap {
+      max-width: 185px;
+      margin: 0 auto; }
+    .mcntelecom-footer__menus-level {
+      padding: 15px 0 40px; }
+    .mcntelecom-footer .menus-level__wrap {
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap; }
+    .mcntelecom-footer .menus-level__menu {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 40px; }
+      .mcntelecom-footer .menus-level__menu:nth-child(3) {
+        margin-bottom: 0; }
+      .mcntelecom-footer .menus-level__menu:last-child {
+        margin-bottom: 0; }
+        .mcntelecom-footer .menus-level__menu:last-child .menus-level__title {
+          display: none; }
+        .mcntelecom-footer .menus-level__menu:last-child .menus-level__contact-block .menus-level__subtitle:first-child {
+          display: none; }
+    .mcntelecom-footer .menus-level__contact-block {
+      margin-bottom: 30px; }
+    .mcntelecom-footer .icons-level__wrap {
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center; }
+    .mcntelecom-footer .icons-level__links-wrap {
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      margin-bottom: 10px; }
+    .mcntelecom-footer .icons-level__flags-menu_list {
+      border-bottom: 0; }
+    .mcntelecom-footer .icons-level__flags_buttons-wrap {
+      margin-left: 0;
+      width: 100%; }
+    .mcntelecom-footer .icons-level__buttons-wrap {
+      margin-left: 0; }
+    .mcntelecom-footer .icons-level__social {
+      margin-bottom: 20px; }
+    .mcntelecom-footer__copy-level {
+      text-align: center;
+      padding: 10px 0 20px; } }
+
+@media (max-width: 769px) {
+  .mcntelecom-numbers {
+    background-size: 782px auto; } }
+
+@media (max-width: 480px) {
+  .mcntelecom-callchat {
+    width: 100vw;
+    right: -100vw;
+    border-radius: 0; }
+    .mcntelecom-callchat .callchat__checkbox:checked + .callchat-wrap {
+      -webkit-transform: translateX(-100vw);
+          -ms-transform: translateX(-100vw);
+              transform: translateX(-100vw);
+      -webkit-box-shadow: 0 -10px 15px 5px rgba(0, 169, 255, 0.3), 0px 10px 15px 5px rgba(179, 113, 255, 0.4);
+              box-shadow: 0 -10px 15px 5px rgba(0, 169, 255, 0.3), 0px 10px 15px 5px rgba(179, 113, 255, 0.4); }
+      .mcntelecom-callchat .callchat__checkbox:checked + .callchat-wrap .callchat__showicon {
+        height: 60px;
+        bottom: -6px;
+        top: auto;
+        right: -100vw;
+        left: auto;
+        background: -o-linear-gradient(bottom, #fff 6px, transparent 6px, transparent 100%), url(../img/icon_chat_close.svg) no-repeat, #0fa7e9;
+        background: linear-gradient(to top, #fff 6px, transparent 6px, transparent 100%), url(../img/icon_chat_close.svg) no-repeat, #0fa7e9;
+        -webkit-box-shadow: none;
+                box-shadow: none;
+        z-index: 0; }
+    .mcntelecom-callchat .callchat-wrap {
+      width: 100vw;
+      padding: 20px 25px;
+      border-radius: 0; } }

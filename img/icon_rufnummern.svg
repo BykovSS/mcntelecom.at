@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60"><rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none" class="" style=""/>
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a9ff"/>
+      <stop offset="1" stop-color="#b371ff"/>
+    </linearGradient>
+  </defs>
+  
+<g class="currentLayer" style=""><title>Layer 1</title><g id="Group_5010" data-name="Group 5010" class="">
+    <path id="Path_11168" data-name="Path 11168" d="M1.345951354980457,57.82035345458985 a216.448,216.448 0 0 1 0,-43.923 a7.61,7.61 0 0 1 6.806,-6.806 a216.392,216.392 0 0 1 43.924,0 a7.61,7.61 0 0 1 6.806,6.806 a216.448,216.448 0 0 1 0,43.923 a7.611,7.611 0 0 1 -6.806,6.806 a216.388,216.388 0 0 1 -43.924,0 A7.611,7.611 0 0 1 1.345951354980457,57.82035345458985 z" opacity="0" fill="url(#linear-gradient)"/>
+    <path id="Path_11169" data-name="Path 11169" d="M1.116926940918006,51.84634979248045 a216.466,216.466 0 0 1 0,-43.923 a7.61,7.61 0 0 1 6.806,-6.806 a216.385,216.385 0 0 1 43.923,0 a7.609,7.609 0 0 1 6.806,6.806 a216.378,216.378 0 0 1 0,43.923 a7.61,7.61 0 0 1 -6.806,6.806 a216.458,216.458 0 0 1 -43.923,0 A7.61,7.61 0 0 1 1.116926940918006,51.84634979248045 z" fill="#0fa7e9"/>
+    <g id="Group_5009" data-name="Group 5009">
+      <circle id="Ellipse_249" data-name="Ellipse 249" cx="17.663930892944336" cy="14.502351760864258" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_250" data-name="Ellipse 250" cx="30.7139310836792" cy="14.502351760864258" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_251" data-name="Ellipse 251" cx="43.161930084228516" cy="14.502351760864258" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_252" data-name="Ellipse 252" cx="17.663930892944336" cy="24.821352005004883" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_253" data-name="Ellipse 253" cx="30.7139310836792" cy="24.821352005004883" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_254" data-name="Ellipse 254" cx="43.161930084228516" cy="24.821352005004883" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_255" data-name="Ellipse 255" cx="17.663930892944336" cy="35.14035224914551" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_256" data-name="Ellipse 256" cx="30.7139310836792" cy="35.14035224914551" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_257" data-name="Ellipse 257" cx="43.161930084228516" cy="35.14035224914551" r="4.468999862670898" fill="#fff"/>
+      <circle id="Ellipse_258" data-name="Ellipse 258" cx="30.604930877685547" cy="45.34335136413574" r="4.468999862670898" fill="#fff"/>
+    </g>
+  </g></g></svg>
